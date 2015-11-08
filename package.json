@@ -1,0 +1,19 @@
+{
+  "name": "@dominykas/test-one",
+  "version": "1.0.0",
+  "description": "Test package for https://github.com/npm/npm/issues/2063",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominykas/test-one.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dominykas/test-one/issues"
+  },
+  "homepage": "https://github.com/dominykas/test-one#readme"
+}
